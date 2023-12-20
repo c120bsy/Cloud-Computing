@@ -14,3 +14,7 @@ uvicorn main:app --reload
 ```
 
 Your FastAPI now run in your localhost.
+
+## Cloud Computing Team Member
+- C120BSY3661 - Feri Yasin – Telkom Institute of Technology Purwokerto
+- C315BSX3421 - Lidia Nurhaliza - Sriwijaya University
